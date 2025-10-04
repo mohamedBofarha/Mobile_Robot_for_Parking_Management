@@ -147,21 +147,18 @@ The developed robot:
 
 ---
 
-##  Images of the Project
 
-###  3D Model (SolidWorks)
-![3D Model](path/to/3D_model_image.png)
+## 📸 Images of the Project
 
-###  Final Robot
-![Final Robot](path/to/final_robot_image.png)
+### 🧱 3D Model (SolidWorks)
+![3D Model](./3D_model.jpg)
 
-###  Robot in the Parking Lot
-![Robot in Parking](path/to/parking_image.png)
+### 🚗 Final Robot
+![Final Robot](./final_robot.jpg)
 
----
+### 🅿️ Robot in the Parking Lot
+![Robot in Parking](./robot_parking.jpg)
 
-##  Report
-A detailed technical report is available upon request.  
 
 ---
 
