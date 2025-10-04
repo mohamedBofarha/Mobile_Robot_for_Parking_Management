@@ -1,6 +1,6 @@
-# 🤖 Autonomous Mobile Robot for Smart Parking Management
+#  Autonomous Mobile Robot for Smart Parking Management
 
-## 🧭 Project Overview
+##  Project Overview
 This project presents the design and implementation of an **autonomous mobile robot** for **smart parking management**.  
 The system combines **computer vision**, **embedded systems**, and **robotics algorithms** to optimize parking space utilization, reduce CO₂ emissions, and enhance urban mobility.
 
@@ -11,7 +11,7 @@ The system combines **computer vision**, **embedded systems**, and **robotics al
 
 ---
 
-## 📚 Table of Contents
+##  Table of Contents
 1. [Introduction](#introduction)  
 2. [Project Concept](#project-concept)  
 3. [Hardware Components](#hardware-components)  
@@ -24,7 +24,7 @@ The system combines **computer vision**, **embedded systems**, and **robotics al
 
 ---
 
-## 🏙️ Introduction
+##  Introduction
 
 ### Context & Motivation
 Urban parking management has become a major issue due to the continuous increase in vehicle numbers. Drivers often spend excessive time searching for parking, leading to:
@@ -35,14 +35,14 @@ Urban parking management has become a major issue due to the continuous increase
 This project proposes an **autonomous robotic solution** capable of detecting available parking spaces, avoiding obstacles, and maintaining a **real-time parking map**.
 
 ### Value Added
-- 💡 **Innovative Solution:** Automates parking management to enhance efficiency.  
-- 💰 **Low-Cost Design:** Built using Raspberry Pi, Arduino, and LIDAR for affordability.  
-- 🔌 **Modular Architecture:** Supports future extensions like license plate recognition.  
-- 🌱 **Eco-Friendly Impact:** Reduces unnecessary vehicle movements and emissions.
+-  **Innovative Solution:** Automates parking management to enhance efficiency.  
+-  **Low-Cost Design:** Built using Raspberry Pi, Arduino, and LIDAR for affordability.  
+-  **Modular Architecture:** Supports future extensions like license plate recognition.  
+-  **Eco-Friendly Impact:** Reduces unnecessary vehicle movements and emissions.
 
 ---
 
-## 🧠 Project Concept
+##  Project Concept
 
 ### Problem Statement
 Urban environments lack automated systems for real-time parking monitoring, resulting in inefficient space usage, long search times, and environmental pollution.
@@ -56,7 +56,7 @@ The developed robot:
 
 ---
 
-## ⚙️ Hardware Components
+##  Hardware Components
 
 | Component | Description |
 |------------|-------------|
@@ -72,7 +72,7 @@ The developed robot:
 
 ---
 
-## 🧩 Mathematical Models & Algorithms
+##  Mathematical Models & Algorithms
 
 ### Parking Space & Obstacle Detection
 - **Matrix-based parking representation** for efficient map management.  
@@ -85,7 +85,7 @@ The developed robot:
 
 ---
 
-## 💻 Software & Programming
+##  Software & Programming
 
 ### Languages
 - **Python:** Main control and image processing on Raspberry Pi.  
@@ -101,7 +101,7 @@ The developed robot:
 
 ---
 
-## 🧪 Implementation & Results
+##  Implementation & Results
 
 ### Development Phases
 1. Hardware assembly (motors, sensors, camera).  
@@ -121,7 +121,7 @@ The developed robot:
 
 ---
 
-## 💬 Discussion & Future Improvements
+##  Discussion & Future Improvements
 
 ### Strengths
 - Low-cost and scalable system.  
@@ -139,7 +139,7 @@ The developed robot:
 
 ---
 
-## 🧰 How to Run the Project
+##  How to Run the Project
 1. Connect all hardware components.  
 2. Upload Arduino code to handle sensors and motors.  
 3. Run the Python script on Raspberry Pi for detection and mapping.  
@@ -147,25 +147,25 @@ The developed robot:
 
 ---
 
-## 📸 Images of the Project
+##  Images of the Project
 
-### 🧱 3D Model (SolidWorks)
+###  3D Model (SolidWorks)
 ![3D Model](path/to/3D_model_image.png)
 
-### 🚗 Final Robot
+###  Final Robot
 ![Final Robot](path/to/final_robot_image.png)
 
-### 🅿️ Robot in the Parking Lot
+###  Robot in the Parking Lot
 ![Robot in Parking](path/to/parking_image.png)
 
 ---
 
-## 🧾 Report
+##  Report
 A detailed technical report is available upon request.  
 
 ---
 
-### 👤 Author
+###  Author
 **Mohamed Bofarha**  
 Final-Year Robotics Engineering Student  
 📍 Morocco  
